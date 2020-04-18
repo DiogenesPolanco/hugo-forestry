@@ -1,0 +1,30 @@
+[{
+  "id": "guantes",
+  "name": "Guantes quirurjicos",
+  "price": 600.00,
+  "image": "/images/guantes.jpg",
+  "description": "Guantes Nitrilo Talla M AZUL sin polvo ni latex desechables 100 Unidades. Uso médico industrial doméstico.",
+  "url": "http://snipcart-hugo-forestery.netlify.com"
+}, {
+  "id": "mascarillas",
+  "name": "Mascarillas Quirurjicas",
+  "description": "Mascarilla desechable profesional antipolvo carbono saludable 3 capas, Tamaño de las máscaras: 17.5cm x 9.5cm / 6.81 x 3.74 y el paquete incluye: 20 x Máscaras desechables.",
+  "price": 2600.00,
+  "image": "/images/mascarillas.jpg",
+  "url": "http://snipcart-hugo-forestery.netlify.com"
+},
+{
+  "id": "mascarillasn95",
+  "name": "Mascarillas N95",
+  "price": 4400.00,
+  "image": "/images/mascarillasn95.jpg",
+  "description": "Paquete de 20x 3M 8210plus 95 N de calidad para prevenir el coronavirus. Uso médico industrial doméstico.",
+  "url": "http://junior-store.netlify.com"
+}, {
+  "id": "alcohol70",
+  "name": "Galon Alcohol 70%",
+  "description": "1 galón /3.78 litros, Compuesto de alcohol y limpiador antiséptico para la piel . Aplicar el producto sobre la piel o la superficie y dejar secar.",
+  "price": 1600.00,
+  "image": "/images/alcohol70.jpg",
+  "url": "http://junior-store.netlify.com"
+}]
