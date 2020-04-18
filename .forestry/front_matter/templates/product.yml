@@ -33,7 +33,7 @@ fields:
   label: url
   config:
     required: true
-  default: https://snipcart-hugo-forestry.netlify.com
+  default: https://junior-store.netlify.com
 pages:
 - content/products/farmhouse-cheddar.md
 - content/products/blue-cheese.md

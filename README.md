@@ -13,4 +13,4 @@ Technical steps:
 
 > Read the [blog post here](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce)
 
-> Try the [demo here](https://snipcart-hugo-forestry.netlify.com/)
+> Try the [demo here](https://junior-store.netlify.com/)

@@ -5,7 +5,7 @@ id = "mascarillas"
 image = "/uploads/mascarillas.jpg"
 name = "Mascarillas Quirurjicas"
 price = "2,600"
-product_url = "https://snipcart-hugo-forestry.netlify.com"
+product_url = "https://junior-store.netlify.com"
 url = "/"
 
 +++

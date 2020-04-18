@@ -5,7 +5,7 @@ id = "alcohol70"
 image = "/uploads/alcohol70.jpg"
 name = "Galon Alcohol 70%"
 price = "1,600"
-product_url = "https://juniorstore.netlify.com"
+product_url = "https://junior-store.netlify.com"
 url = "/"
 
 +++

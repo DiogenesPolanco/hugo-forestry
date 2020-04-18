@@ -5,7 +5,7 @@ id = "mascarillasn95"
 image = "/uploads/mascarillasn95.jpg"
 name = "Mascarillas N95"
 price = "6,400"
-product_url = "https://snipcart-hugo-forestry.netlify.com"
+product_url = "https://junior-store.netlify.com"
 url = "/"
 
 +++
