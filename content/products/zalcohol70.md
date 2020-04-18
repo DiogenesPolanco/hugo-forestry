@@ -4,7 +4,7 @@ description = "1 galón /3.78 litros, Compuesto de alcohol y limpiador antisépt
 id = "alcohol70"
 image = "/uploads/alcohol70.jpg"
 name = "Galon Alcohol 70%"
-price = "1,600"
+price = 1600
 product_url = "https://junior-store.netlify.com"
 url = "/"
 
