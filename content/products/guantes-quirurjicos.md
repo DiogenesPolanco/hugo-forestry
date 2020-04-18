@@ -5,7 +5,7 @@ id = "guantes"
 image = "/uploads/guantes.jpg"
 name = "Guantes Quirurjicos"
 price = 600
-product_url = "https://junior-store.netlify.com"
+product_url = "https://junior-store.netlify.app/data/products.json"
 url = "/"
 
 +++

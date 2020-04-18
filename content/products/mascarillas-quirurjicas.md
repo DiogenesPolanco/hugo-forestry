@@ -5,7 +5,7 @@ id = "mascarillas"
 image = "/uploads/mascarillas.jpg"
 name = "Mascarillas Quirurjicas"
 price = 2600
-product_url = "https://junior-store.netlify.com"
+product_url = "https://junior-store.netlify.app/data/products.json"
 url = "/"
 
 +++
