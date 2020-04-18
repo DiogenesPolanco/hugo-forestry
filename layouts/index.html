@@ -2,11 +2,11 @@
 
 <!-- {{ $products := getJSON "/data/products.json" }} -->
 <main class="products">
-  <img src="/images/icons/cheese-background.svg" alt="" class="background-image">
+  <img src="/images/icons/coronavirus.svg" alt="" class="background-image">
   <div class="promotional-message">
-    <h3>REDISCOVER</h3>
-    <h2>Cheese</h2>
-    <p>An exclusive <strong>collection of handcrafted cheese</strong> for the hardcore cheese enthusiasts.</p>
+    <h3>Productos disponibles</h3>
+    <h2>Haz tus pedidos</h2>
+    <p>Una colección<strong> exclusiva de productos de prevencion</strong> para tu cuidado en estos dias.</p>
   </div>
   {{ range where .Site.RegularPages "Section" "products"}}
     {{ partial "product.html" .Params }}

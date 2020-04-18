@@ -1,30 +1,30 @@
 [{
-  "id": "GOUDA_WHEEL",
-  "name": "Gouda Wheel",
-  "price": 299.95,
-  "image": "/images/gouda.jpg",
-  "description": "Want to step up your cheese game? Try our mild, yellow Gouda Wheel. This cheese is made in the Netherlands with raw cow milk.",
+  "id": "guantes",
+  "name": "Guantes quirurjicos",
+  "price": 600.00,
+  "image": "/images/guantes.jpg",
+  "description": "Guantes Nitrilo Talla M AZUL sin polvo ni latex desechables 100 Unidades. Uso médico industrial doméstico.",
   "url": "http://snipcart-hugo-forestery.netlify.com"
 }, {
-  "id": "FARMHOUSE_CHEDDAR",
-  "name": "Farmhouse Cheddar",
-  "description": "Made out of highest graded ingredients, this cheese has been aged for three months and is sure you leave you with a sharp-tasting, natural taste.",
-  "price": 4.95,
-  "image": "/images/cheddar.jpg",
+  "id": "mascarillas",
+  "name": "Mascarillas Quirurjicas",
+  "description": "Mascarilla desechable profesional antipolvo carbono saludable 3 capas, Tamaño de las máscaras: 17.5cm x 9.5cm / 6.81 x 3.74 y el paquete incluye: 20 x Máscaras desechables.",
+  "price": 2600.00,
+  "image": "/images/mascarillas.jpg",
   "url": "http://snipcart-hugo-forestery.netlify.com"
 },
 {
-  "id": "CAMEMBERT",
-  "name": "Camembert",
-  "price": 9.95,
-  "image": "/images/camembert.jpg",
-  "description": "Native from France, this cheese is soft, moist and creamy. It is similar to Brie, but with higher fat content. Best paired with a sweet, crispy biscuit.",
+  "id": "mascarillasn95",
+  "name": "Mascarillas N95",
+  "price": 4400.00,
+  "image": "/images/mascarillasn95.jpg",
+  "description": "Paquete de 20x 3M 8210plus 95 N de calidad para prevenir el coronavirus. Uso médico industrial doméstico.",
   "url": "http://snipcart-hugo-forestry.netlify.com"
 }, {
-  "id": "BLUE_CHEESE",
-  "name": "Blue cheese",
-  "description": "This long-aged cheese made with Penicillium mould is sure to be one of the stinkiest and strong tasting cheese. It comes with one of the best marbling available on the market.",
-  "price": 12.95,
-  "image": "/images/blue.jpg",
+  "id": "alcohol70",
+  "name": "Galon Alcohol 70%",
+  "description": "1 galón /3.78 litros, Compuesto de alcohol y limpiador antiséptico para la piel . Aplicar el producto sobre la piel o la superficie y dejar secar.",
+  "price": 1600.00,
+  "image": "/images/alcohol70.jpg",
   "url": "http://snipcart-hugo-forestry.netlify.com"
 }]
