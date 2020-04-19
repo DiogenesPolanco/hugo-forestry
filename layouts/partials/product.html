@@ -10,8 +10,10 @@
       data-item-name="{{ .name }}"
       data-item-price="{{ .price }}"
       data-item-url="{{ .product_url }}"
-      data-item-description="{{ .description }}">
-      Add to cart
+      data-item-description="{{ .description }}" 
+      {{ with .isdetail }} data-item-custom1-name="Detalle" {{end}}
+      {{ if  and (.isdetail) }} data-item-custom1-options="{{ .details }}" {{end}}>
+      Adquirir
     </button>
   </div>
 </div>

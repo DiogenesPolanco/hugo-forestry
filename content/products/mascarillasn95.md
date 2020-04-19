@@ -7,5 +7,6 @@ name = "Mascarillas N95"
 price = 6400
 product_url = "https://junior-store.netlify.app/data/products.json"
 url = "/"
-
+isdetail=true
+details="Una Caja|Un Docena[-2400]|Una Par[-6000]|"
 +++

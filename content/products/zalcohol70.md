@@ -7,6 +7,6 @@ name = "Galon Alcohol 70%"
 price = 1600
 product_url = "https://junior-store.netlify.app/data/products.json"
 url = "/"
-
+isdetail=false 
 +++
   
