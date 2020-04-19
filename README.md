@@ -1,4 +1,4 @@
-# Hugo Tutorial: How to Build & Host a (Very Fast) Static E-Commerce Site
+# Hugo Static E-Commerce Site
 
 ![hugo-ecommerce](https://snipcart.com/media/204274/hugo-ecommerce-tutorial.jpg)
 
